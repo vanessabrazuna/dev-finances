@@ -24,3 +24,6 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 2. Install `Live Server` and `Live Sass Compiler` extension
 3. Right click `index.html` > `Open with Live Server`
 4. Access the **generated address** in your browser 🚀
+---
+
+Feito com 💜 by Rocketseat, modificado por Vanessa Brazuna
