@@ -1,10 +1,22 @@
-# dev-finances
-Projeto dev-finances referente a aula do curso rocketseat
+<h1 align="center">
+  <img alt="dev.finances" title="dev.finances" src="https://raw.githubusercontent.com/rocketseat-education/maratona-discover-01/main/.github/logo.svg" width="220px" />
+</h1>
+</br>
+
+<p align="center">
+  <img alt="dev.finances" src="https://github.com/rocketseat-education/maratona-discover-01/blob/main/.github/devfinances.png" width="100%">
+</p>
+
+## Projeto
+
+O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
+</br></br>
 
 ## Resources
 
 - [x] HTML5, CSS3, JS
 - [x] SVG Images
+</br>
 
 ## Start Dev Environment for VSCode
 
