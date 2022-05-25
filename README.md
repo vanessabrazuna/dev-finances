@@ -7,9 +7,9 @@
   <img alt="dev.finances" src="https://github.com/rocketseat-education/maratona-discover-01/blob/main/.github/devfinances.png" width="100%">
 </p>
 
-## Projeto
+## Project
 
-O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
+Dev.finances is a financial control application, where it is possible to register and delete transactions and see the incoming and outgoing balance 💰
 </br></br>
 
 ## Resources
@@ -26,4 +26,4 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 4. Access the **generated address** in your browser 🚀
 ---
 
-Feito com 💜 by Rocketseat, modificado por Vanessa Brazuna
+Made with 💜 by Rocketseat, modified by Vanessa Brazuna
